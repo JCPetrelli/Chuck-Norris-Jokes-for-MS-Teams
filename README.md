@@ -16,7 +16,7 @@ To install the dependencies, run the following command:
 
 ## Usage
 - Replace Insert_Here_Your_MS_Teams_Webhook_URL in line 28 with the URL of your Microsoft Teams webhook.
-- To create a MS Teams webhook, please check my article at (link) or the official documentation at https://learn.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook?tabs=dotnet.
+- To create a MS Teams webhook, please check my article at https://medium.com/@jacopocastellano/chuck-norris-comes-to-ms-teams-a-joke-generator-script-a98e03146818 or the official documentation at https://learn.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook?tabs=dotnet.
 - Run the script with `python Chuck_Norris_Jokes.py`.
 
 ## Customization
